@@ -1,0 +1,32 @@
+.content {
+  width: 100%;
+  padding-left: 20px;
+}
+.content .con-1 {
+  width: 1000px;
+  height: 120px;
+  margin-left: 50px;
+  margin-top: 20px;
+  background-color: #fc89e3;
+}
+.content .con-1 .list2 {
+  width: 1000px;
+  height: 150px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+.content .con-1 .list2 li {
+  width: 200px;
+  height: 120px;
+  background-color: #fc6fbc;
+}
+.content .con-2 {
+  width: 1000px;
+  height: 400px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
