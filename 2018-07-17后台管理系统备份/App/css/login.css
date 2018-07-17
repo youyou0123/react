@@ -1,0 +1,169 @@
+.box1 {
+  position: relative;
+  width: 1350px;
+  height: 650px;
+  background: url(../img/05.jpg) no-repeat;
+  background-size: 100% 100%;
+  color: #fff;
+}
+.box1 .login1 {
+  display: none;
+  position: absolute;
+  top: 30%;
+  left: 35%;
+  margin: 0 auto;
+  width: 400px;
+  height: 300px;
+  border-radius: 15px;
+  background-color: rgba(23, 31, 39, 0.8);
+}
+.box1 .login1 .denglu {
+  width: 50%;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-size: 28px;
+  color: #fff;
+  border-radius: 15px 0 0 0 ;
+  background-color: rgba(48, 115, 179, 0.5);
+}
+.box1 .login1 .zhuce {
+  width: 50%;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-size: 28px;
+  color: #fff;
+  border-radius: 0 15px 0 0 ;
+  background-color: rgba(48, 115, 179, 0.5);
+}
+.box1 .login1 .zh {
+  width: 80%;
+  height: 50px;
+  margin-left: 30px;
+}
+.box1 .login1 .mm {
+  width: 80%;
+  height: 50px;
+  margin-left: 30px;
+}
+.box1 .login1 input {
+  width: 250px;
+  height: 20px;
+  margin: 10px 0 10px 0;
+  border-radius: 5px;
+}
+.box1 .login1 .xuanxiang {
+  width: 100%;
+  height: 30px;
+  display: inline-block;
+}
+.box1 .login1 .xuanxiang .checkbox {
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  margin: 10px 10px 10px 30px;
+}
+.box1 .login1 .xuanxiang .a1 {
+  line-height: 30px;
+  color: #fff;
+}
+.box1 .login1 .xuanxiang .a2 {
+  color: #fa673a;
+  margin-left: 150px;
+  line-height: 30px;
+}
+.box1 .login1 .button5 {
+  display: block;
+  text-align: center;
+  line-height: 40px;
+  width: 120px;
+  height: 40px;
+  border-radius: 15px;
+  background-color: #fff;
+  margin: 10px 0 0 155px;
+}
+.box1 .login2 {
+  position: absolute;
+  top: 30%;
+  left: 35%;
+  margin: 50px auto;
+  width: 400px;
+  height: 350px;
+  border-radius: 15px;
+  background-color: rgba(23, 31, 39, 0.8);
+}
+.box1 .login2 .denglu {
+  width: 50%;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-size: 28px;
+  color: #fff;
+  border-radius: 15px 0 0 0 ;
+  background-color: rgba(48, 115, 179, 0.5);
+}
+.box1 .login2 .zhuce {
+  width: 50%;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-size: 28px;
+  color: #fff;
+  border-radius: 0 15px 0 0 ;
+  background-color: rgba(48, 115, 179, 0.5);
+}
+.box1 .login2 .zh2 {
+  width: 80%;
+  height: 50px;
+  margin-left: 30px;
+}
+.box1 .login2 .mm2 {
+  width: 80%;
+  height: 50px;
+  margin-left: 30px;
+}
+.box1 .login2 input {
+  width: 250px;
+  height: 20px;
+  margin: 10px 0 10px 0;
+  border-radius: 5px;
+}
+.box1 .login2 .xuanxiang2 {
+  width: 100%;
+  height: 30px;
+  display: inline-block;
+}
+.box1 .login2 .xuanxiang2 .checkbox {
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  margin: 10px 10px 10px 30px;
+}
+.box1 .login2 .xuanxiang2 .a1 {
+  line-height: 30px;
+  color: #fff;
+}
+.box1 .login2 .xuanxiang2 .a2 {
+  color: #fa673a;
+  margin-left: 150px;
+  line-height: 30px;
+}
+.box1 .login2 .button6 {
+  display: block;
+  text-align: center;
+  line-height: 40px;
+  width: 120px;
+  height: 40px;
+  border-radius: 15px;
+  background-color: #fff;
+  margin: 10px 0 0 155px;
+}

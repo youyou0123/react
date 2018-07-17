@@ -1,0 +1,1 @@
+export const DEL_DATA = 'DEL_DATA'; // 删除数据

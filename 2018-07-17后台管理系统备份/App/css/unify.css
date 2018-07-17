@@ -1,0 +1,14 @@
+/* 清理默认样式 */
+body{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration:none;
+    color:#000;
+}
+ul,li{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
