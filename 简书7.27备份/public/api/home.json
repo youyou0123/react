@@ -1,0 +1,107 @@
+{
+    "success":true,
+    "data":{
+        "topicList":[{
+            "id":1,
+            "title":"社会热点",
+            "imgUrl":"//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        },{
+            "id":2,
+            "title":"手绘",
+            "imgUrl":"//upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        },{
+            "id":3,
+            "title":"人文社科",
+            "imgUrl":"//upload.jianshu.io/collections/images/494271/51164a1egd7b1a4a7c491_690.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        },{
+            "id":4,
+            "title":"简书电影",
+            "imgUrl":"//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        },{
+            "id":5,
+            "title":"历史",
+            "imgUrl":"//upload.jianshu.io/collections/images/75/22.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        },{
+            "id":6,
+            "title":"读书",
+            "imgUrl":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        },{
+            "id":7,
+            "title":"摄影",
+            "imgUrl":"//upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        }],
+        "articleList":[{
+            "id":1,
+            "title":"阿里90后工程师利用ARM硬件特性开启安卓8终端“上帝模式”",
+            "desc":"大家晚上好哇！我是沉迷玩抖音拍照大法的小丸子这才知道，原来那些高逼格上档次的网红照，都是用如此简便的道具拍的。 聪明的我偷偷学来这几种拍法，你们...",
+            "imgUrl":"//upload-images.jianshu.io/upload_images/12102166-e6233f3e9b81796f.jpg"
+        },{
+            "id":2,
+            "title":"如果没有全力以赴，说什么不能成功",
+            "desc":"夜深了，此刻你在做着什么呢？泡在网上闲聊？或是还在外面吃夜宵？而有的人是不是还在学习？我还在伏案写作，记录生活的点滴，回想今天都做了些什么？是否完成自已的计划了，必须得做的事情都完成了吗？是否跟伙伴交流了？今天学习了什么？计划明天应该做些什么。",
+            "imgUrl":"//upload-images.jianshu.io/upload_images/9865249-218d670b65353f26.jpg"
+        },{
+            "id":3,
+            "title":"手把手教你，如何用手机拍出颜值和逼格超高的照片！",
+            "desc":"大家晚上好哇！我是沉迷玩抖音拍照大法的小丸子这才知道，原来那些高逼格上档次的网红照，都是用如此简便的道具拍的。 聪明的我偷偷学来这几种拍法，你们...",
+            "imgUrl":"//upload-images.jianshu.io/upload_images/2729710-221d8618524103d1.jpeg"
+        },{
+            "id":4,
+            "title":"为什么会“玩”的人，反而更优秀？",
+            "desc":"我们经常会遇到一些HR的一些让人无法回答的问题，比如说——“你最大的缺点是什么”。这个问题其实考验你在面对困境时的应变能力的同时又考验了你处理问题的思维技巧。",
+            "imgUrl":"//upload-images.jianshu.io/upload_images/2060255-5903c1b31672dada"
+        },{
+            "id":5,
+            "title":"“72分钟我被逼成杀人犯”，最经不起考验的是人性",
+            "desc":"“曾经我也以为自己是个好人，直到我看着一个又一个的普通人，被诱导着谋杀了另一个陌生人，我觉得，我可能不是纯粹的好人。”这是一档来自英国的真人秀《The Push》（就范），节目的推出者，是英国著名心理魔术家达伦·布朗。",
+            "imgUrl":"//upload-images.jianshu.io/upload_images/6126137-727d3e16040a560f"
+        }],
+        "recommendList":[{
+            "id":1,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+        },{
+            "id":2,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+        },{
+            "id":3,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+        },{
+            "id":4,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+        },{
+            "id":5,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+        }],
+        "goodwriters":[{
+            "id":1,
+            "title":"简书大学堂",
+            "desc":" 写了457.47K字，34.17K人喜欢",
+            "imgUrl":"http://upload.jianshu.io/users/upload_avatars/3627484/eb973bb9-37ba-4d07-acec-850c0a66d1bb.png?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96"
+        },{
+            "id":2,
+            "title":"简书版权",
+            "desc":" 写了457.47K字，34.17K人喜欢",
+            "imgUrl":"http:////upload.jianshu.io/users/upload_avatars/1835526/9bc600ce-7672-42b8-b03b-1a779593dd45.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96"
+        },{
+            "id":3,
+            "title":"悠游",
+            "desc":" 写了47.47K字，354.17K人喜欢",
+            "imgUrl":"http:////upload.jianshu.io/users/upload_avatars/5565867/395f5193-fb9c-41c0-815c-d3d5336e2ac6.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180"
+        },{
+            "id":4,
+            "title":"天涯",
+            "desc":" 写了457.47K字，34.17K人喜欢",
+            "imgUrl":"http://upload.jianshu.io/users/upload_avatars/11557689/ed2ea7f3-9d7d-41fc-a05a-daebb8097b0c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96"
+        },{
+            "id":5,
+            "title":"其童子",
+            "desc":" 写了457.47K字，34.17K人喜欢",
+            "imgUrl":"//upload.jianshu.io/users/upload_avatars/8781442/adac7350-1979-4076-add4-581969676519.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180"
+        },{
+            "id":6,
+            "title":"坏人怀念",
+            "desc":" 写了457.47K字，34.17K人喜欢",
+            "imgUrl":"http:////upload.jianshu.io/users/upload_avatars/7290998/f64f5ef0-def0-4b26-beb3-b9d88f060ba0.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180"
+        }]
+    }
+}
